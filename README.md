@@ -3,11 +3,17 @@ This project combines data visualization techniques implemented in PySpark with 
 
 ## Features
 Histogram: Visualize the distribution of data using histograms.
+
 Scatter Plot: Display the relationship between two variables using scatter plots.
+
 Linear Regression: Perform linear regression analysis and visualize the results.
+
 Box Plot: Explore the distribution of data and detect outliers using box plots.
+
 Line Plot: Visualize trends over time or another continuous variable using line plots.
+
 K-means Clustering: Perform clustering analysis to identify distinct groups in the data using K-means algorithm.
+
 Gaussian Mixture Models (GMM): Utilize GMM to model the underlying distribution of the data and perform clustering.
 
 
