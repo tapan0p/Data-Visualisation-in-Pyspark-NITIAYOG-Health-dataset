@@ -1,0 +1,31 @@
+
+.dropdown-container {
+  max-width: 800px;
+  margin: 20px auto;
+  text-align: center;
+  background-color: beige;
+}
+
+label {
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+select {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.image-container {
+  margin-top: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
